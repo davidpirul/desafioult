@@ -28,18 +28,49 @@ body {
     padding: 0;
 }
 
+.nav {
+    background-color: #010052 !important;
+    color: #ffa600 !important;
+    padding: 0;
+}
 
-/* Color Theme Swatches in Hex */
-.Ilustración-1-hex { color: #4D578C; }
-.Ilustración-2-hex { color: #548C87; }
-.Ilustración-3-hex { color: #ffa600; }
-.Ilustración-4-hex { color: #BF622C; }
-.Ilustración-5-hex { color: #8C3F23; }
+.nav-link {
+    color: #ffa600;
+}
 
-/* Color Theme Swatches in Hex */
-.Detalle-de-textura-y-formas-de-una-ola-de-mar-1-hex { color: #5A98BF; }
-.Detalle-de-textura-y-formas-de-una-ola-de-mar-2-hex { color: #1B778C; }
-.Detalle-de-textura-y-formas-de-una-ola-de-mar-3-hex { color: #092126; }
-.Detalle-de-textura-y-formas-de-una-ola-de-mar-4-hex { color: #3BC9D9; }
-.Detalle-de-textura-y-formas-de-una-ola-de-mar-5-hex { color: #52D9D9; }
 
+.card-body {
+    background-color: #010052;
+}
+
+.card-link {
+    color: #ffa600;
+}
+
+.card-title {
+    color: #ffa600;
+}
+
+ul {
+    color: #f8d472;
+}
+.card-text {
+    color: #f8d472;
+}
+
+.bi-filetype-html {
+    font-size: 8em;
+}
+
+.bi-filetype-css {
+    font-size: 8em;
+}
+
+.bi-bootstrap {
+    font-size: 8em;
+}
+
+img {
+    width: 29vw;
+    height: 36vh;
+}
